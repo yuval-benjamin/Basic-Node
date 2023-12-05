@@ -1,0 +1,8 @@
+# .uplift.yml
+# Example of bumping a package.json file
+
+bumps:
+  - file: package.json
+    json:
+      - path: "version"
+        semver: true
