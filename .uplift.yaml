@@ -10,4 +10,4 @@ commitAuthor:
   name: "yuval-bot"
   email: "yuval-bot@gmail.com"
 
-commitMessage: "chore(release): this is a custom release message"
+commitMessage: "ci(release): updating version: $VERSION. [ci skip]"
