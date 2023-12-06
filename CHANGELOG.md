@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [v0.2.0-service](https://github.com/yuval-benjamin/Basic-Node/releases/tag/v0.2.0-service) - 2023-12-06
+
+- [`b814fa9`](https://github.com/yuval-benjamin/Basic-Node/commit/b814fa975d275b9b28fc0c0ae0d57e877663b2e4) feat: checking version name
+
 ## [v0.1.1](https://github.com/yuval-benjamin/Basic-Node/releases/tag/v0.1.1) - 2023-12-06
 
 - [`f86a6eb`](https://github.com/yuval-benjamin/Basic-Node/commit/f86a6eb8562aa03e5c537f647b3a31dbc49df387) fix: trying extra uplift features
