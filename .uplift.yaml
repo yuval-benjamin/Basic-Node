@@ -6,3 +6,8 @@ bumps:
     json:
       - path: "version"
         semver: true
+commitAuthor:
+  name: "yuval-bot"
+  email: "yuval-bot@gmail.com"
+
+commitMessage: "chore(release): this is a custom release message"
